@@ -1,4 +1,4 @@
-'Little Calendar for iCloud' for Little Printer
+Little Calendar for Little Printer
 =============
 I bought a Little Printer, plugged it in and discovered there was no publications to pull calendar data!! So, this is my answer to that dilemma.
 

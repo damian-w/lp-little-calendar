@@ -1,0 +1,10 @@
+{
+  "publication_api_version":        "1.0",
+  "owner_email":					"damian.w@iinet.net.au",
+  "name":                           "Little Calendar for iCloud",
+  "description":                    "Keep up-to-date with your busy social life and your packed work schedule with Little Calendar for iCloud! We'll let you know every Monday what lies in the week ahead across all your iCloud Calendars.",
+  "delivered_on":                   "weekly every Monday",
+  "external_configuration":         false,
+  "send_timezone_info":             false,
+  "send_delivery_count":            false
+}

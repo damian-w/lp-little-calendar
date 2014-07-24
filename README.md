@@ -9,7 +9,9 @@ Obviously this readme also a work in progress. I'll be much more detailed once c
 About
 -----
 
-This is a semi-simple publication for the [Little Printer](http://bergcloud.com/littleprinter/) that uses external configuration to connect and publish iCloud Calender data. Theoretically, this same principle could be used to access contact data (eg. to publish birthday notifications without the need for Facebook connectivity). 
+This is a semi-complex publication for the [Little Printer](http://bergcloud.com/littleprinter/) that uses external configuration to connect and publish iCloud Calender data straight to a users Little Printer for their Monday-morning digest. Theoretically and eventually, this same principle could be used to access contact data (eg. to publish birthday notifications without the need for Facebook connectivity).
+
+Released under the GNU General Public Licence v2.
 
 
 How you could use it
